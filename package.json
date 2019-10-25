@@ -1,0 +1,16 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^1.1.16",
+    "puppeteer": "^2.0.0",
+    "request": "^2.88.0"
+  }
+}
